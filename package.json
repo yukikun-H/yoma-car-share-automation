@@ -1,0 +1,14 @@
+{
+  "name": "yoma-car-share-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "dependencies": {
+    "nightwatch": "^3.1.0",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0"
+  }
+}
